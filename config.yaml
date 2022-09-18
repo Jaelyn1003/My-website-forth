@@ -1,0 +1,121 @@
+baseURL: https://jaelyn-shi.netlify.app/
+languageCode: en-us
+title: Website for Jaelyn Shi
+theme: forty
+googleAnalytics: ''
+disqusShortname: ''
+params:
+  banner:
+    buttonText: Get Started
+    subtitle: |-
+      I'm currently reading for Masters in Analytics and Management @ LBS.
+    title: Hi, my name is Jaelyn
+  blog: {}
+  contact:
+    address:
+      - city: London
+        country: UK
+        street: Regent's Park
+        title: London Business School
+    buttonClear: Clear
+    buttonSend: Send message
+    email:
+      - email: jshi.mam2023@london.edu
+    enable: yes
+    phone:
+      - phone: (+44) 07818 377676
+        title: UK Phone Number
+      - phone: (+86) 133 8861 9066
+        title: Chinese Phone Number
+  custom_css: []
+  custom_js: []
+  description: Your description
+  error404:
+    heading: Page couldn't be found
+    text: Please visit [this page](/)
+  favicon: favicon.ico
+  footer:
+    copyright: Jaelyn
+    enable: yes
+    quicklinks:
+      - alt: Email
+        text: 'Contact me:'
+        url: doreen_slj@hotmail.com
+    social:
+#      - icon: fa-twitter
+#        label: Twitter
+#        url: https://www.twitter.com/kostisc
+#      - icon: fa-facebook
+#        label: Facebook
+#        url: https://www.facebook.com
+#      - icon: fa-instagram
+#        label: Instagram
+#        url: 
+      - icon: fa-github
+        label: GitHub
+        url: https://github.com/Jaelyn1003
+      - icon: fa-linkedin
+        label: LinkedIn
+        url: https://www.linkedin.com/in/jaelyn-s-a21355196/
+      - icon: fa-bilibili
+        label: Bilibili
+        url: https://space.bilibili.com/398301534?spm_id_from=333.1007.0.0
+  image: ''
+  name: Your name
+  navigation:
+    button1:
+      - name: Get Started
+        url: blogs
+    button2:
+      - name: Log In
+        url: '#'
+    links:
+      - name: Home
+        url: '#'
+      - name: Blogs
+        url: blogs
+      - name: Photos
+        url: blogs/ipsum
+#      - name: Elements
+#        url: elements.html
+    menu: Back
+    subtitle: 
+    title: Menu
+  tiles:
+    enable: yes
+    showcase:
+      - image: pic01.jpg
+        subtitle: I love sunsets
+        title: About me
+        url: blogs/aliquam
+      - image: pic02.jpg
+        subtitle: Feugiat Amet Tempus
+        title: Tempus
+        url: blogs/tempus
+      - image: pic03.jpg
+        subtitle: Lorem Etiam Nullam
+        title: Magna
+        url: blogs/magna
+      - image: pic04.jpg
+        subtitle: Nisl Sed Aliquam
+        title: Ipsum
+        url: blogs/ipsum
+      - image: pic05.jpg
+        subtitle: Ipsum Dolor Sit Amet
+        title: Consequat
+        url: blogs/ipsum
+      - image: pic06.jpg
+        subtitle: Feugiat Amet Tempus
+        title: Etiam
+        url: blogs/ipsum
+  two:
+    buttonText: Get Started
+    enable: yes
+    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
+      \r\n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \r\n    Pellentesque
+      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
+      pellentesque lorem ipsum dolor. \r\n    Nullam et orci eu lorem consequat tincidunt.
+      Vivamus et sagittis libero.\r\n    Mauris aliquet magna magna sed nunc rhoncus
+      amet pharetra et feugiat tempus."
+    title: Massa libero
+    url: blogs
